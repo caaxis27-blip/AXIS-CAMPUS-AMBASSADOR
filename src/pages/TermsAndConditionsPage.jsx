@@ -103,195 +103,195 @@ const SECTIONS = [
     ]
   },
   {
-    "id": "6",
-    "title": "6. Referral Code & Registration Attribution",
+    "id": "5",
+    "title": "5. Referral Code & Registration Attribution",
     "items": [
       [
-        "6.1",
+        "5.1",
         "A registration counts for a CA only if (a) it is completed through that CA’s Referral Code or link, (b) the participant is a real, distinct person, and (c) the registration is confirmed and, where applicable, paid on the official AXIS platform."
       ],
       [
-        "6.2",
+        "5.2",
         "Self-registrations, registrations by family members created only to earn points, bulk or fake registrations, and registrations later refunded, cancelled or found invalid will not be counted. Points already awarded for such registrations may be reversed."
       ],
       [
-        "6.3",
+        "5.3",
         "The system’s tracking records are final. If a technical fault affects attribution, the Ops team may correct records manually based on verifiable proof; the Organizers’ decision is final."
       ],
       [
-        "6.4",
+        "5.4",
         "CAs must not use misleading claims, spam, unsolicited bulk messaging, or paid or deceptive methods to drive registrations, and must follow the rules of each platform (WhatsApp, Telegram, Instagram, LinkedIn, etc.) and of their own college."
       ]
     ]
   },
   {
-    "id": "7",
-    "title": "7. Leaderboard, Freeze & Disputes",
+    "id": "6",
+    "title": "6. Leaderboard, Freeze & Disputes",
     "items": [
       [
-        "7.1",
+        "6.1",
         "A public leaderboard shows the top-ranked CAs. By applying, you consent to your name, college, domain, points and rank being displayed publicly."
       ],
       [
-        "7.2",
+        "6.2",
         "No new points are awarded after the Leaderboard Freeze Date (5 March 2027). Submissions after this date are not considered."
       ],
       [
-        "7.3",
+        "6.3",
         "Ties in points are resolved by, in order: higher number of verified registrations, earlier time of reaching the tied score, then the Organizers’ judgement."
       ],
       [
-        "7.4",
+        "6.4",
         "Any query on points must be raised in writing to the Program team within 7 days of the points being updated, or before the freeze date, whichever is earlier. Disputes after the final leaderboard is published will not be entertained."
       ]
     ]
   },
   {
-    "id": "9",
-    "title": "9. Code of Conduct",
+    "id": "7",
+    "title": "7. Code of Conduct",
     "items": [
       [
-        "9.1",
+        "7.1",
         "CAs must behave respectfully and professionally towards other CAs, the Organizers, participants, college authorities and the public, both online and offline."
       ],
       [
-        "9.2",
+        "7.2",
         "CAs must not post or share content that is offensive, discriminatory, hateful, defamatory, sexually explicit, politically inflammatory, or that violates any law or third-party rights."
       ],
       [
-        "9.3",
+        "7.3",
         "CAs must not make false statements about AXIS, its events, prizes, speakers, sponsors or fees, and must use only the official information, brand assets and toolkit supplied by the Organizers."
       ],
       [
-        "9.4",
+        "7.4",
         "CAs must not misuse the AXIS name or logo, create unofficial AXIS pages or groups presented as official, or approach sponsors or vendors on behalf of AXIS beyond tasks explicitly assigned."
       ],
       [
-        "9.5",
+        "7.5",
         "CAs must obtain the required permission from their college (for example, faculty or HOD approval) before holding on-campus activities, and must follow all college rules and local laws."
       ],
       [
-        "9.6",
+        "7.6",
         "CAs must not tamper with or attempt to exploit the Dashboard, the referral system or the leaderboard, or access any data or account that is not their own."
       ]
     ]
   },
   {
-    "id": "10",
-    "title": "10. Intellectual Property & Content",
+    "id": "8",
+    "title": "8. Intellectual Property & Content",
     "items": [
       [
-        "10.1",
+        "8.1",
         "All AXIS names, logos, designs and toolkit materials remain the property of AXIS. CAs receive a limited, revocable, non-transferable permission to use them only for Program tasks and only in the manner prescribed in the brand guidelines."
       ],
       [
-        "10.2",
+        "8.2",
         "CAs retain ownership of the original work they create. By submitting it, the CA grants AXIS a free, worldwide, perpetual, non-exclusive right to use, reproduce, modify and publish that work (with credit where practicable) for AXIS promotion, the Program and future editions."
       ],
       [
-        "10.3",
+        "8.3",
         "CAs confirm that their submissions do not infringe any copyright, trademark or other right of a third party (including images, music, fonts and templates) and that they have the necessary permissions to submit them."
       ],
       [
-        "10.4",
-        "For Web Development tasks, code contributed to the CA website is licensed to AXIS on the same terms as 10.2 and may be modified, reused and maintained by AXIS."
+        "8.4",
+        "For Web Development tasks, code contributed to the CA website is licensed to AXIS on the same terms as 8.2 and may be modified, reused and maintained by AXIS."
       ]
     ]
   },
   {
-    "id": "11",
-    "title": "11. Privacy & Data Protection",
+    "id": "9",
+    "title": "9. Privacy & Data Protection",
     "items": [
       [
-        "11.1",
+        "9.1",
         "AXIS collects personal data such as name, college, year, contact details, social profile links, application responses, submissions and activity data. This is used to run the Program, verify tasks, track referrals, display the leaderboard, communicate with CAs, issue rewards and certificates, and plan future editions."
       ],
       [
-        "11.2",
+        "9.2",
         "AXIS processes this data in line with applicable Indian law, including the Digital Personal Data Protection Act, 2023. Data is retained only as long as reasonably needed for these purposes and for record-keeping."
       ],
       [
-        "11.3",
+        "9.3",
         "AXIS may share limited information with service providers (for example, hosting and communication tools) and, where required, with college authorities for verification of activities. AXIS does not sell personal data."
       ],
       [
-        "11.4",
+        "9.4",
         "Photographs and videos taken during Program activities and the fest may be used by AXIS for promotion. A CA who does not wish to be featured should inform the Program team in writing."
       ],
       [
-        "11.5",
+        "9.5",
         "A CA may request access, correction or deletion of their data by writing to the contact address in Section 16. Deletion may result in withdrawal from the Program and loss of pending rewards."
       ]
     ]
   },
   {
-    "id": "12",
-    "title": "12. On-Ground Activities & Safety",
+    "id": "10",
+    "title": "10. On-Ground Activities & Safety",
     "items": [
       [
-        "12.1",
+        "10.1",
         "Activities such as roadshows, info-sessions, booths and contingent coordination are undertaken by the CA voluntarily and at the CA’s own responsibility. CAs must act safely, lawfully and in accordance with college rules."
       ],
       [
-        "12.2",
+        "10.2",
         "CAs organising events on campus are responsible for obtaining permissions and for the conduct of attendees. AXIS does not insure, supervise or take responsibility for such activities unless it has explicitly agreed in writing."
       ],
       [
-        "12.3",
+        "10.3",
         "Where a CA is selected as an on-ground Coordinator at the fest, separate volunteer guidelines may apply, and the CA must follow them."
       ]
     ]
   },
   {
-    "id": "13",
-    "title": "13. Suspension, Disqualification & Withdrawal",
+    "id": "11",
+    "title": "11. Suspension, Disqualification & Withdrawal",
     "items": [
       [
-        "13.1",
+        "11.1",
         "The Organizers may warn, suspend, remove or disqualify a CA, withhold or reverse points, and cancel rewards or certificates, with or without notice, for violating these Terms, including for fraud, fake submissions, misconduct, misrepresentation, or conduct that harms AXIS or its reputation."
       ],
       [
-        "13.2",
+        "11.2",
         "A CA may withdraw from the Program at any time by informing the Program team in writing. Withdrawal before the Leaderboard Freeze Date forfeits eligibility for rewards."
       ],
       [
-        "13.3",
+        "11.3",
         "CAs who remain inactive for a prolonged period may be marked inactive and removed from reward consideration."
       ],
       [
-        "13.4",
+        "11.4",
         "The Organizers may suspend, modify or end the Program, or any part of it, if required by circumstances beyond their control, legal requirements, or the fest being rescheduled or cancelled."
       ]
     ]
   },
   {
-    "id": "14",
-    "title": "14. Disclaimers & Limitation of Liability",
+    "id": "12",
+    "title": "12. Disclaimers & Limitation of Liability",
     "items": [
       [
-        "14.1",
+        "12.1",
         "The Program, Dashboard and rewards are provided on an “as available” basis. AXIS does not guarantee uninterrupted or error-free operation of the website or that any particular number of points, ranks or rewards will be achieved."
       ],
       [
-        "14.2",
+        "12.2",
         "To the maximum extent permitted by law, AXIS, its organisers, volunteers and associated institution are not liable for any indirect, incidental or consequential loss, loss of opportunity, or any injury, loss or damage arising from a CA’s own activities, travel, or use of third-party platforms."
       ],
       [
-        "14.3",
+        "12.3",
         "Nothing in these Terms excludes any liability that cannot be excluded under applicable law."
       ]
     ]
   },
   {
-    "id": "15",
-    "title": "15. Changes to these Terms",
+    "id": "13",
+    "title": "13. Changes to these Terms",
     "items": [
       [
-        "15.1",
+        "13.1",
         "The Organizers may update these Terms from time to time. Material changes will be notified on the Dashboard, by email or on the official announcement channel. Continued participation after notice constitutes acceptance of the updated Terms."
       ],
       [
-        "15.2",
+        "13.2",
         "If there is any conflict between these Terms and a specific task or announcement concerning that task, the task-specific instruction will prevail for that task only."
       ]
     ]
